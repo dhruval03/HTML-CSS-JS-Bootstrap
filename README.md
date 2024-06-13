@@ -13,19 +13,20 @@ Welcome to the repository containing a collection of my web development sample p
     Contact  
 
 📚 Projects Overview
-This repository includes a diverse range of projects, each aimed at highlighting specific skills and techniques in web development. Whether you are looking for simple static pages or more complex interactive applications, you will find examples that demonstrate the practical application of various web technologies.
+
+  This repository includes a diverse range of projects, each aimed at highlighting specific skills and techniques in web development. Whether you are looking for simple static pages or more complex interactive applications, you will find examples that demonstrate the practical application of various web technologies.
 
 📝 Project List
-
-🛎️ Toast Notification
-
-    Description: A simple toast notification system for user feedback.
-    Technologies: HTML, CSS, JavaScript
 
 🌍 Country Guide
 
     Description: A country guide application that displays information about different countries.
     Technologies: HTML, CSS, JavaScript, API
+    
+🛎️ Toast Notification
+
+    Description: A simple toast notification system for user feedback.
+    Technologies: HTML, CSS, JavaScript
     
 🚀 Installation and Usage
 To explore these projects, you can clone this repository to your local machine:
