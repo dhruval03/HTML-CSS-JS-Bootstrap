@@ -1,4 +1,4 @@
-                                                                                    🌐 Web Development Sample Projects
+                                                                    🌐 Web Development Sample Projects
 
 Welcome to the repository containing a collection of my web development sample projects. Here, you will find a variety of projects showcasing my skills in HTML, CSS, JavaScript, Bootstrap, and more. Each project is designed to demonstrate different aspects of front-end development, from basic web page structures to dynamic and interactive user interfaces.
 
