@@ -36,27 +36,32 @@ cd Project-1- Toast-Notification
 open index.html
 
 🛠️ Technologies Used
-HTML: For the basic structure of the web pages.
-CSS: For styling and layout.
-JavaScript: For interactive elements and dynamic content.
-Bootstrap: For responsive design and pre-built components.
-APIs: For fetching external data in some projects.
+
+    HTML: For the basic structure of the web pages.
+    CSS: For styling and layout.
+    JavaScript: For interactive elements and dynamic content.
+    Bootstrap: For responsive design and pre-built components.
+    APIs: For fetching external data in some projects.
 
 🤝 Contributing
-Contributions are welcome! If you have suggestions for improvements or new projects, please feel free to fork the repository and submit a pull request. Ensure your contributions adhere to the existing coding style and conventions.
 
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Commit your changes (git commit -am 'Add new feature')
-Push to the branch (git push origin feature-branch)
-Create a new Pull Request
+    Contributions are welcome! If you have suggestions for improvements or new projects, please feel free to fork the repository and submit a pull request. Ensure your contributions         adhere to the existing coding style and conventions.
+
+    Fork the repository
+    Create a new branch (git checkout -b feature-branch)
+    Commit your changes (git commit -am 'Add new feature')
+    Push to the branch (git push origin feature-branch)
+    Create a new Pull Request
+    
 📄 License
-This repository is licensed under the MIT License. See the LICENSE file for more information.
+    
+    This repository is licensed under the MIT License. See the LICENSE file for more information.
 
 📬 Contact
-If you have any questions or would like to connect, feel free to reach out:
 
-📧 Email: maniyardhruval1290@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/dhruval-maniyar-526721292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+    If you have any questions or would like to connect, feel free to reach out:
+
+    📧 Email: maniyardhruval1290@gmail.com
+    🔗 LinkedIn: https://www.linkedin.com/in/dhruval-maniyar-526721292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Thank you for visiting this repository. I hope you find these projects helpful and inspiring for your own web development journey! 🚀🌟
