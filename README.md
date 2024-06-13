@@ -45,7 +45,7 @@ open index.html
 
 🤝 Contributing
 
-    Contributions are welcome! If you have suggestions for improvements or new projects, please feel free to fork the repository and submit a pull request. Ensure your contributions         adhere to the existing coding style and conventions.
+    Contributions are welcome! If you have suggestions for improvements or new projects, please feel free to fork the repository and submit a pull request. Ensure your contributions adhere to the existing coding style and conventions.
 
     Fork the repository
     Create a new branch (git checkout -b feature-branch)
